@@ -1,0 +1,33 @@
+I have attached a PDF named "Medical and Travel Expense Request.pdf".
+
+Build a frontend version of this PDF using only HTML, CSS, and vanilla JavaScript.
+
+Requirements:
+
+1. Carefully inspect the PDF and reproduce its layout as closely as possible.
+2. The PDF contains 2 pages. Recreate both pages.
+3. Include the header, footer, page numbers, sections, tables, borders, spacing, labels, and all visible content.
+4. Recreate all expense sections shown in the PDF, including:
+
+   * Prescription Drugs
+   * Over-the-Counter Drugs
+   * Medical Supplies
+   * Parking for Medical Appointments
+   * Mileage to Medical Appointments
+   * Bus or Taxi Fare
+5. Use separate files:
+
+   * medical-expense.html
+   * css/style.css
+   * js/medical-expense.js
+6. CSS must be completely separate from HTML. Do not use inline CSS or <style> tags.
+7. JavaScript must be separate from HTML.
+8. Store table data in JavaScript arrays/objects.
+9. Generate table rows dynamically using JavaScript.
+10. The tables must support different numbers of records, such as 1 record, 5 records, or 10 records.
+11. Make sure the layout works correctly when the amount of data changes.
+12. Add proper print CSS so the browser can print/save the document as a PDF.
+13. Reproduce the PDF appearance as closely as possible without using the PDF itself as a background image.
+14. Keep the code clean, simple, and easy to understand.
+
+After creating the code, explain the important HTML, CSS, and JavaScript parts and mention any assumptions made.
